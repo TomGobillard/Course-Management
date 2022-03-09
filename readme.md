@@ -1,4 +1,4 @@
-##Course management
+## Course management
 
 ### Subject recieved : As an administrator, I want to see student list so that I can see all the information about the students
 ### Diagrams recieved : 
